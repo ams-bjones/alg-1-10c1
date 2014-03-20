@@ -1,0 +1,22 @@
+A triangle of width 15.0, and height 28.0, 
+    will have an area of 210.0
+A triangle of width 62.0, and height 11.0, 
+    will have an area of 341.0
+A triangle of width 69.0, and height 128.0, 
+    will have an area of 4416.0
+A triangle of width 100.0, and height 99.0, 
+    will have an area of 4950.0
+A triangle of width 3000001.0, and height 22718.0, 
+    will have an area of 34077011359.0
+A triangle of width 47.0, and height 72.0, 
+    will have an area of 1692.0
+A triangle of width 0.001, and height 18.0, 
+    will have an area of 0.009
+A triangle of width 99.999, and height 180.0, 
+    will have an area of 8999.91
+A triangle of width -5.0, and height 1.0, 
+    will have an area of -2.5
+A triangle of width 2.0, and height 0.009, 
+    will have an area of 0.009
+A triangle of width 4.0, and height 123456781.0, 
+    will have an area of 246913562.0
